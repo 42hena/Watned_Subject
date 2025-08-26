@@ -1,0 +1,101 @@
+﻿id(int),name(string),type(string),cost(int),rarity(int)
+1,Fireball,Spell,4,2
+2,Guardian,Unit,3,1
+3,Healing Touch,Spell,2,1
+4,Storm Drake,Unit,6,3
+5,Arcane Scholar,Unit,2,2
+6,Shadowstep,Spell,1,2
+7,Iron Golem,Unit,7,3
+8,Elven Archer,Unit,1,1
+9,Thunder Strike,Spell,5,3
+10,Mana Spring,Support,0,2
+11,Blade Dancer,Unit,3,2
+12,Stone Wall,Artifact,2,2
+13,Flame Imp,Unit,2,1
+14,Frost Nova,Spell,4,2
+15,Ancient Oak,Unit,5,2
+16,Divine Shield,Spell,2,3
+17,Assassin,Unit,4,3
+18,Runic Hammer,Artifact,3,2
+19,Wind Fury,Spell,3,2
+20,Crystal Sentry,Unit,4,2
+21,Blood Pact,Spell,1,1
+22,Sand Stalker,Unit,3,2
+23,Lightning Rod,Artifact,2,1
+24,Water Elemental,Unit,4,3
+25,Grave Robber,Unit,2,1
+26,Holy Light,Spell,2,2
+27,Arcane Explosion,Spell,3,2
+28,Dragon Whelp,Unit,2,1
+29,Barrier Totem,Support,1,2
+30,Royal Guard,Unit,5,3
+31,Poisoned Dagger,Artifact,2,2
+32,Earth Shatter,Spell,6,3
+33,Spirit Healer,Unit,3,2
+34,Mirror Image,Spell,1,1
+35,War Drummer,Unit,4,2
+36,Ice Lance,Spell,1,1
+37,Sun Priest,Unit,3,2
+38,Volcanic Giant,Unit,8,4
+39,Nature's Grasp,Spell,2,2
+40,Runestone,Artifact,1,1
+41,Goblin Tinkerer,Unit,3,2
+42,Arcane Geyser,Spell,5,3
+43,Steel Sentinel,Unit,6,3
+44,Life Bloom,Spell,1,2
+45,Shadow Priestess,Unit,4,3
+46,Windrunner,Unit,5,3
+47,Chain Lightning,Spell,6,3
+48,Spellbreaker,Unit,4,2
+49,Mind Control,Spell,7,4
+50,Phantom Blade,Artifact,3,3
+51,Stonehoof,Unit,5,3
+52,Mana Leak,Spell,2,2
+53,Dread Knight,Unit,7,4
+54,Arc Lightning,Spell,3,2
+55,Forest Ranger,Unit,3,2
+56,Guardian Angel,Unit,6,4
+57,Whirlwind,Spell,2,1
+58,Siege Engine,Unit,7,3
+59,Runic Shield,Artifact,3,2
+60,Quick Shot,Spell,1,1
+61,Stormcaller,Unit,5,3
+62,Blizzard,Spell,6,3
+63,Crystal Mage,Unit,4,3
+64,Soul Drain,Spell,4,3
+65,Battle Medic,Unit,3,2
+66,Arcane Familiar,Unit,2,1
+67,Relic of Ages,Artifact,4,3
+68,Tempest Rider,Unit,5,3
+69,Curse of Weakness,Spell,2,2
+70,War Banner,Support,2,2
+71,Flame Tongue,Spell,3,2
+72,High Priest,Unit,6,4
+73,Gargoyle,Unit,4,2
+74,Mirror Shield,Artifact,3,3
+75,Time Warp,Spell,8,5
+76,Skirmisher,Unit,2,1
+77,Shadow Blade,Artifact,2,2
+78,Echo of Power,Spell,3,2
+79,Thunderlord,Unit,7,4
+80,Bloodlust,Spell,5,3
+81,Mystic Scribe,Unit,2,2
+82,Sanctuary,Support,3,3
+83,Druid's Call,Spell,2,2
+84,Ice Guardian,Unit,6,3
+85,Plague Spreader,Unit,3,2
+86,Arcane Missiles,Spell,1,1
+87,War Golem,Unit,7,3
+88,Spellforge,Artifact,4,3
+89,Divination,Spell,2,2
+90,Blade Master,Unit,5,3
+91,Eldritch Tome,Artifact,5,4
+92,Pyroblast,Spell,10,5
+93,Shield Maiden,Unit,5,3
+94,Mana Battery,Support,1,2
+95,Spectral Knight,Unit,6,4
+96,Hex,Spell,4,3
+97,Storm Pike,Artifact,2,2
+98,Arcane Surge,Spell,3,2
+99,Twilight Drake,Unit,5,4
+100,Oracle,Unit,4,3
